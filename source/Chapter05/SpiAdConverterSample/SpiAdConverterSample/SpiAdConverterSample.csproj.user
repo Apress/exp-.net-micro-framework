@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DeployDevice>{b7186cc8-2af2-42fc-8af0-623a98e7c45a}</DeployDevice>
+  </PropertyGroup>
+</Project>
